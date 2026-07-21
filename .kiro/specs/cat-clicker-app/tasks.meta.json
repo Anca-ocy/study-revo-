@@ -1,0 +1,168 @@
+{
+  "pbtResults": {},
+  "executionHistory": {
+    "1.1 Create `index.html` with the full HTML5 boilerplate": [
+      {
+        "executionId": "c703599a-5572-4783-95ad-64982155d1c0",
+        "chatSessionId": "sess_8403ef14-ad1c-4485-8a2f-4f106156039b",
+        "timestamp": 1784609164097
+      },
+      {
+        "executionId": "c703599a-5572-4783-95ad-64982155d1c0",
+        "chatSessionId": "sess_8403ef14-ad1c-4485-8a2f-4f106156039b",
+        "timestamp": 1784609179660
+      },
+      {
+        "executionId": "c703599a-5572-4783-95ad-64982155d1c0",
+        "chatSessionId": "sess_8403ef14-ad1c-4485-8a2f-4f106156039b",
+        "timestamp": 1784609251548
+      }
+    ],
+    "1.2 Add the body layout and key DOM elements": [
+      {
+        "executionId": "c703599a-5572-4783-95ad-64982155d1c0",
+        "chatSessionId": "sess_8403ef14-ad1c-4485-8a2f-4f106156039b",
+        "timestamp": 1784609165499
+      },
+      {
+        "executionId": "c703599a-5572-4783-95ad-64982155d1c0",
+        "chatSessionId": "sess_8403ef14-ad1c-4485-8a2f-4f106156039b",
+        "timestamp": 1784609180221
+      },
+      {
+        "executionId": "c703599a-5572-4783-95ad-64982155d1c0",
+        "chatSessionId": "sess_8403ef14-ad1c-4485-8a2f-4f106156039b",
+        "timestamp": 1784609252084
+      }
+    ],
+    "2.1 Define `ANIMATION_MAP` and `SOUND_MAP` constants": [
+      {
+        "executionId": "c703599a-5572-4783-95ad-64982155d1c0",
+        "chatSessionId": "sess_8403ef14-ad1c-4485-8a2f-4f106156039b",
+        "timestamp": 1784609165914
+      },
+      {
+        "executionId": "c703599a-5572-4783-95ad-64982155d1c0",
+        "chatSessionId": "sess_8403ef14-ad1c-4485-8a2f-4f106156039b",
+        "timestamp": 1784609257142
+      }
+    ],
+    "2.2 Define the `REACTION_POOL` frozen array": [
+      {
+        "executionId": "c703599a-5572-4783-95ad-64982155d1c0",
+        "chatSessionId": "sess_8403ef14-ad1c-4485-8a2f-4f106156039b",
+        "timestamp": 1784609166225
+      },
+      {
+        "executionId": "c703599a-5572-4783-95ad-64982155d1c0",
+        "chatSessionId": "sess_8403ef14-ad1c-4485-8a2f-4f106156039b",
+        "timestamp": 1784609257532
+      }
+    ],
+    "3.1 Define the `AppState` mutable object": [
+      {
+        "executionId": "c703599a-5572-4783-95ad-64982155d1c0",
+        "chatSessionId": "sess_8403ef14-ad1c-4485-8a2f-4f106156039b",
+        "timestamp": 1784609166531
+      }
+    ],
+    "3.2 Implement `ReactionEngine.pick()`": [
+      {
+        "executionId": "c703599a-5572-4783-95ad-64982155d1c0",
+        "chatSessionId": "sess_8403ef14-ad1c-4485-8a2f-4f106156039b",
+        "timestamp": 1784609166767
+      }
+    ],
+    "3.5 Implement `ReactionEngine.execute(reaction)`": [
+      {
+        "executionId": "c703599a-5572-4783-95ad-64982155d1c0",
+        "chatSessionId": "sess_8403ef14-ad1c-4485-8a2f-4f106156039b",
+        "timestamp": 1784609166990
+      }
+    ],
+    "3.7 Implement `ReactionEngine.reset()`": [
+      {
+        "executionId": "c703599a-5572-4783-95ad-64982155d1c0",
+        "chatSessionId": "sess_8403ef14-ad1c-4485-8a2f-4f106156039b",
+        "timestamp": 1784609167228
+      }
+    ],
+    "4. Checkpoint — core logic complete": [
+      {
+        "executionId": "c703599a-5572-4783-95ad-64982155d1c0",
+        "chatSessionId": "sess_8403ef14-ad1c-4485-8a2f-4f106156039b",
+        "timestamp": 1784609167632
+      }
+    ],
+    "5.1 Implement `SoundPlayer.play(soundKey)`": [
+      {
+        "executionId": "c703599a-5572-4783-95ad-64982155d1c0",
+        "chatSessionId": "sess_8403ef14-ad1c-4485-8a2f-4f106156039b",
+        "timestamp": 1784609167920
+      }
+    ],
+    "5.2 Implement `SoundPlayer.isEnabled()` and `SoundPlayer.setEnabled(val)`": [
+      {
+        "executionId": "c703599a-5572-4783-95ad-64982155d1c0",
+        "chatSessionId": "sess_8403ef14-ad1c-4485-8a2f-4f106156039b",
+        "timestamp": 1784609168332
+      }
+    ],
+    "6.1 Implement the cat click handler inside `init()`": [
+      {
+        "executionId": "c703599a-5572-4783-95ad-64982155d1c0",
+        "chatSessionId": "sess_8403ef14-ad1c-4485-8a2f-4f106156039b",
+        "timestamp": 1784609168766
+      }
+    ],
+    "6.2 Implement the sound toggle and reset handlers inside `init()`": [
+      {
+        "executionId": "c703599a-5572-4783-95ad-64982155d1c0",
+        "chatSessionId": "sess_8403ef14-ad1c-4485-8a2f-4f106156039b",
+        "timestamp": 1784609169117
+      }
+    ],
+    "7. Checkpoint — full interaction loop complete": [
+      {
+        "executionId": "c703599a-5572-4783-95ad-64982155d1c0",
+        "chatSessionId": "sess_8403ef14-ad1c-4485-8a2f-4f106156039b",
+        "timestamp": 1784609169383
+      }
+    ],
+    "8.1 Write unit tests for `AppState` and data constants": [
+      {
+        "executionId": "c703599a-5572-4783-95ad-64982155d1c0",
+        "chatSessionId": "sess_8403ef14-ad1c-4485-8a2f-4f106156039b",
+        "timestamp": 1784609169606
+      }
+    ],
+    "8.2 Write unit tests for `ReactionEngine` and `SoundPlayer` edge cases": [
+      {
+        "executionId": "c703599a-5572-4783-95ad-64982155d1c0",
+        "chatSessionId": "sess_8403ef14-ad1c-4485-8a2f-4f106156039b",
+        "timestamp": 1784609169995
+      }
+    ],
+    "9.1 Write automated layout checks for viewport extremes": [
+      {
+        "executionId": "c703599a-5572-4783-95ad-64982155d1c0",
+        "chatSessionId": "sess_8403ef14-ad1c-4485-8a2f-4f106156039b",
+        "timestamp": 1784609170379
+      }
+    ],
+    "10. Final checkpoint — all tests pass": [
+      {
+        "executionId": "c703599a-5572-4783-95ad-64982155d1c0",
+        "chatSessionId": "sess_8403ef14-ad1c-4485-8a2f-4f106156039b",
+        "timestamp": 1784609170669
+      }
+    ],
+    "1. Create the HTML scaffold and inline CSS": [
+      {
+        "executionId": "c703599a-5572-4783-95ad-64982155d1c0",
+        "chatSessionId": "sess_8403ef14-ad1c-4485-8a2f-4f106156039b",
+        "timestamp": 1784609252351
+      }
+    ]
+  }
+}
